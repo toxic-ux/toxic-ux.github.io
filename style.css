@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	background: black;
+	text-decoration-line:none;
+   
+}
+
+.button
+{
+	margin: 0;
+	text-decoration:none;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    color: black;
+    background: cyan;
+    font-size: 4vh;
+    border-radius:50px;
+    border-style: solid;
+    filter: drop-shadow(0 0 2px);
+    text-decoration-line: none;
+    color: black;
+    transition-duration: 0.5s;
+
+
+}
+
+a:hover
+{
+	background: black;
+	 text-decoration-line:none;
+	  border-radius:5px;
+	  transition-duration: 0.1s;
+	  filter: drop-shadow(0 0 4px);
+    border-style: solid;
+    color: cyan
+
+  
+	   
+	}
+
+a:hover:activate
+{
+	color: black;
+}	
+
+
+
+.krunker-logo-maker
+{
+	margin: 0;
+	text-decoration:none;
+    position: absolute;
+    top: 42%;
+    left: 45%;
+    color: black;
+    background: cyan;
+    font-size: 4vh;
+    border-radius:50px;
+    border-style: solid;
+    filter: drop-shadow(0 0 2px);
+    
+    font-color: black;
+    transition-duration: 0.5s;
+
+
+}
+
+a:hover
+{
+	background: black;
+	 text-decoration-line:none;
+	  border-radius:0px;
+	  transition-duration: 0.1s;
+	  filter: drop-shadow(0 0 4px);
+    border-style: solid;
+    color: cyan
+
+  
+	   
+	}
+
+a:hover:activate
+{
+	color: black;
+}	
+
+
+.krunker-hack
+{
+	margin: 0;
+	text-decoration:none;
+    position: absolute;
+    top: 3%;
+    left: 4%;
+    color: black;
+    background: cyan;
+    font-size: 4vh;
+    border-radius:50px;
+    border-style: solid;
+    filter: drop-shadow(0 0 2px);
+    text-decoration-line: none;
+    color: black;
+    transition-duration: 0.5s;
+}
+
+a:hover
+{
+	background: black;
+	 text-decoration-line:none;
+	  border-radius:5px;
+	  transition-duration: 0.1s;
+	  filter: drop-shadow(0 0 4px);
+    border-style: solid;
+    color: cyan
+
+  
+	   
+}
+
+a:hover:activate
+{
+	color: black;
+}	
+
+
+
+.free_kr
+{
+	margin: 0;
+	text-decoration:none;
+    position: absolute;
+    top: 3%;
+    right: 4%;
+    color: black;
+    background: cyan;
+    font-size: 4vh;
+    border-radius:50px;
+    border-style: solid;
+    filter: drop-shadow(0 0 2px);
+    text-decoration-line: none;
+    color: black;
+    transition-duration: 0.5s;
+
+
+}
+
+a:hover
+{
+	background: black;
+	 text-decoration-line:none;
+	  border-radius:50px;
+	  transition-duration: 0.1s;
+	  filter: drop-shadow(0 0 4px);
+    border-style: solid;
+    color: cyan
+
+  
+	   
+	}
+
+a:hover:activate
+{
+	color: black;
+}	
+
+
+
+
+.free_skin
+{
+	margin: 0;
+	text-decoration:none;
+    position: absolute;
+    top: 89%;
+    right: 4%;
+    color: black;
+    background: cyan;
+    font-size: 4vh;
+    border-radius:50px;
+    border-style: solid;
+    filter: drop-shadow(0 0 2px);
+    text-decoration-line: none;
+    color: black;
+    transition-duration: 0.5s;
+
+
+}
+
+a:hover
+{
+	background: black;
+	 text-decoration-line:none;
+	  border-radius:50px;
+	  transition-duration: 0.1s;
+	  filter: drop-shadow(0 0 4px);
+    border-style: solid;
+    color: cyan
+
+  
+	   
+	}
+
+a:hover:activate
+{
+	color: black;
+}	
+
+
+
+.discord
+{
+	margin: 0;
+	text-decoration:none;
+    position: absolute;
+    top: 89%;
+    left:4%;
+    color: black;
+    background: cyan;
+    font-size: 4vh;
+    border-radius:50px;
+    border-style: solid;
+    filter: drop-shadow(0 0 2px);
+    text-decoration-line: none;
+    color: black;
+    transition-duration: 0.5s;
+
+
+}
+
+a:hover
+{
+	background: black;
+	 text-decoration-line:none;
+	  border-radius:50px;
+	  transition-duration: 0.1s;
+	  filter: drop-shadow(0 0 4px);
+    border-style: solid;
+    color: cyan
+
+  
+	   
+	}
+
+a:hover:activate
+{
+	color: black;
+}	
